@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "AidanMarcikic.GitHub.io/"
+# url-pretty: "AidanMarcikic.GitHub.IO/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -133,17 +133,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#15181e"
-text-col: "#d2d7df"
-link-col: "#f1f5fc"
-hover-col: "#4478dd"
-navbar-col: "#255dc9"
-navbar-text-col: "#f1f5fc"
-navbar-border-col: "#353c4b"
-footer-col: "#1d499e"
-footer-text-col: "#96a1b5"
-footer-link-col: "#d2d7df"
-footer-hover-col: "#fbfbfc"
+page-col: "#15181E"
+text-col: "#D2D7DF"
+link-col: "#F1F5FC"
+hover-col: "#4478DD"
+navbar-col: "#255DC9"
+navbar-text-col: "#F1F5FC"
+navbar-border-col: "#353C4B"
+footer-col: "#1D499E"
+footer-text-col: "#96A1B5"
+footer-link-col: "#D2D7DF"
+footer-hover-col: "#FBFBFC"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
