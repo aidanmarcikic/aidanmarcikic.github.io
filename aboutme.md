@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me!
+subtitle: My work, interests, hobbies, etc.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## My name is Aidan Marcikić, my pronouns are (he / him / his / they).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+![goblinvalley]('https://aidanmarcikic.github.io/assets/img/meingoblinvalley.jpg'){: .mx-auto.d-block :}
+*Me hiking in Goblin Valley, Utah in the Summer of 2023*
 
-What else do you need?
+In my work, I aim to understand how we can better bolster progressive social movements by using experiemental methods in psychology.
 
-### My story
+Outside of my work, I am the Co-Chair of my Young Democratic Socialists of America chapter @ ILSTU. Tangentially, I love to read 
+popular and acedemic works of classical and modern Marxist scholars through our Marxist Reading Group (and of course, on my own time as well).
+I also enjoy hiking on trips back to my home state of Utah, posting everything I see to my Instagram Story, cooking new meals in my
+toaster oven, and reading science-fiction works by anarchists, and playing video games on my Switch with my friends, along with many hobbies that I start and stop periodically.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*Please contact me with the bubbles below if you are interested in hearing more about my work or hobbies!*
