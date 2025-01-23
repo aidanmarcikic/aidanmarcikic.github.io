@@ -1,5 +1,5 @@
 ---
-title   : Research
+title   : ""
 layout  : page
 ---
 
@@ -12,7 +12,7 @@ layout  : page
 ---
 ## Teaching
 
-Teaching Assistant, Illinois State University Psychology Department\	
+Teaching Assistant, Illinois State University Psychology Department\
 PSY 253 -- Cognition & Learning, Fall 2024\
 Dr. Dawn McBride\
 Department of Psychology, Illinois State University
