@@ -7,7 +7,7 @@ subtitle: My work, interests, hobbies, etc.
 ## My name is Aidan Marcikić, my pronouns are (he / him / his / they).
 
 ![goblinvalley](https://aidanmarcikic.github.io/assets/img/me_in_goblin_valley_summer_2023.jpg){: .mx-auto.d-block :}
-<p style="text-align: center;">Me hiking in Goblin Valley, Utah in the Summer of 2023</p>
+<p style="text-align: center; line-height: 1;">Me hiking in Goblin Valley, Utah in the Summer of 2023</p>
 
 In my work, I aim to understand how we can better bolster progressive social movements by using experiemental methods in psychology.
 
